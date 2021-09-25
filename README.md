@@ -1,0 +1,1 @@
+# custom-generator-JPA
